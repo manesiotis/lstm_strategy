@@ -1,0 +1,12 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```text
+yfinance
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
